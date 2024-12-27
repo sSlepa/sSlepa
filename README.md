@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Languages and Technologies Known</h2>
+<h2 align="left">Some Languages and Technologies Known</h2>
 
 ###
 
